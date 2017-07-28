@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JniDemo</string>
+    <string name="static_jni">静态功能</string>
+    <string name="dynamic_jni">动态功能</string>
+    <string name="static_button">静态</string>
+    <string name="dynamic_button">动态</string>
 </resources>

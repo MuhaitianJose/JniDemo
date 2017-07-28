@@ -45,4 +45,8 @@ public class StaticJniClass {
     public native void setIntArray(int[] IntArray);
 
     public native int[] getIntArray();
+
+    public native void setStudent(Student student);
+
+    public native Student getStudent();
 }
